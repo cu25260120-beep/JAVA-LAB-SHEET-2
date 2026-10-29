@@ -647,6 +647,5 @@ After toggling 3rd bit: 20
 16 x 1 = 16
 16 x 2 = 32
 
-Note: The loop stops when the product reaches 48's multiple (here, 16 × 3 = 48), so it prints only the first two multiplication results.
 
-Your assignment Q1–Q30 is complete, with full questions, Java programs, and sample outputs.# JAVA-LAB-SHEET-2
+
